@@ -1,0 +1,5 @@
+0 Carta
+1 ferro
+2 vetro
+3 Plastica
+4 Bio
